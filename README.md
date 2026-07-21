@@ -24,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0070-climbing-stairs) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0013-roman-to-integer) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
