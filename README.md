@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0013-roman-to-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1768-merge-strings-alternately](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
