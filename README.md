@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
