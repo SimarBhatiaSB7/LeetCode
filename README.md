@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0231-power-of-two) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0231-power-of-two) |
 ## Enumeration
 |  |
 | ------- |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0204-count-primes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
