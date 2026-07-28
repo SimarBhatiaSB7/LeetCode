@@ -37,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0231-power-of-two) |
 | [0365-water-and-jug-problem](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0412-fizz-buzz) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0135-candy) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
