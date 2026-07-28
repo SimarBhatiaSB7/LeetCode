@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0231-power-of-two) |
+| [0365-water-and-jug-problem](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0371-sum-of-two-integers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0365-water-and-jug-problem) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
