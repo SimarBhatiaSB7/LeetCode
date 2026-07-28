@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0001-two-sum) |
+| [0055-jump-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0217-contains-duplicate) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0877-stone-game) |
 ## Memoization
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0877-stone-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
