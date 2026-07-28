@@ -2,20 +2,15 @@ class Solution {
 public:
     int mySqrt(int x) {
         if (x < 2) return x;
-
-        int left = 1, right = x / 2;
-        int ans = 0;
-
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-            if (mid <= x / mid) {
-                ans = mid;
-                left = mid + 1;
-            } else {
-                right = mid - 1; 
+        int n = x / 2;      
+        for (long long i = 1; i <= n; i++) {
+            if (i * i == x) {
+                return i;
+            }
+            if (i * i > x) {
+                return i - 1;
             }
         }
-
-        return ans;
+        return n;
     }
 };
