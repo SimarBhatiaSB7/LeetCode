@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1103-distribute-candies-to-people](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1103-distribute-candies-to-people) |
 ## String
 |  |
 | ------- |
@@ -125,4 +126,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0412-fizz-buzz) |
+| [1103-distribute-candies-to-people](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1103-distribute-candies-to-people) |
 <!---LeetCode Topics End-->
