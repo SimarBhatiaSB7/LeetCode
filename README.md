@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0258-add-digits) |
 | [0365-water-and-jug-problem](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0412-fizz-buzz) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0258-add-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0412-fizz-buzz) |
 | [1103-distribute-candies-to-people](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1103-distribute-candies-to-people) |
 <!---LeetCode Topics End-->
