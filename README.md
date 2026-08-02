@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2652-sum-multiples](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2652-sum-multiples) |
 ## String
 |  |
 | ------- |
