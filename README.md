@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## String
@@ -103,12 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0204-count-primes) |
+| [2427-number-of-common-factors](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2427-number-of-common-factors) |
 ## Bit Manipulation
 |  |
 | ------- |
