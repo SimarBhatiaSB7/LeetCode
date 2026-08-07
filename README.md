@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0342-power-of-four) |
 | [0365-water-and-jug-problem](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0365-water-and-jug-problem) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0877-stone-game) |
 ## Greedy
 |  |
@@ -203,4 +205,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0169-majority-element) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
