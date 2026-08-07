@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0645-set-mismatch) |
 | [0877-stone-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Sliding Window
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0027-remove-element) |
+| [0905-sort-array-by-parity](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Recursion
 |  |
