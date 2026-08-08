@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0268-missing-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0224-basic-calculator) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0027-remove-element) |
+| [0202-happy-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0202-happy-number) |
 | [0905-sort-array-by-parity](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Recursion
@@ -233,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0292-nim-game) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
