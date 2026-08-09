@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0704-binary-search) |
 ## Game Theory
 |  |
 | ------- |
