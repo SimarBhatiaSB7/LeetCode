@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0645-set-mismatch) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0268-missing-number) |
+| [0500-keyboard-row](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0645-set-mismatch) |
 | [1512-number-of-good-pairs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0013-roman-to-integer) |
 | [0224-basic-calculator](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0224-basic-calculator) |
 | [0412-fizz-buzz](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0412-fizz-buzz) |
+| [0500-keyboard-row](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0500-keyboard-row) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
