@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2652-sum-multiples) |
 | [2739-total-distance-traveled](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2739-total-distance-traveled) |
+| [3099-harshad-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3099-harshad-number) |
 ## String
 |  |
 | ------- |
