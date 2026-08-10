@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2652-sum-multiples) |
+| [2739-total-distance-traveled](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2739-total-distance-traveled) |
 ## String
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1518-water-bottles) |
 | [2169-count-operations-to-obtain-zero](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2739-total-distance-traveled](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2739-total-distance-traveled) |
 ## Counting
 |  |
 | ------- |
