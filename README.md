@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3945-digit-frequency-score](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-find-closest-person](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3516-find-closest-person) |
 | [3870-count-commas-in-range](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3894-traffic-signal-color](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3894-traffic-signal-color) |
+| [3945-digit-frequency-score](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
