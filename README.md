@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-find-closest-person](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3516-find-closest-person) |
 | [3870-count-commas-in-range](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3894-traffic-signal-color](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3894-traffic-signal-color) |
+| [3908-valid-digit-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
