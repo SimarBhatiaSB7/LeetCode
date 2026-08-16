@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2029-stone-game-ix](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2029-stone-game-ix) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1518-water-bottles) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1925-count-square-sum-triples](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1925-count-square-sum-triples) |
+| [2029-stone-game-ix](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2029-stone-game-ix) |
 | [2169-count-operations-to-obtain-zero](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2235-add-two-integers) |
@@ -225,11 +227,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2029-stone-game-ix) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0135-candy) |
+| [2029-stone-game-ix](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2029-stone-game-ix) |
 | [2578-split-with-minimum-sum](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2578-split-with-minimum-sum) |
 ## Simulation
 |  |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [2029-stone-game-ix](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2029-stone-game-ix) |
 ## Stack
 |  |
 | ------- |
@@ -268,10 +273,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0292-nim-game) |
+| [2029-stone-game-ix](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0292-nim-game) |
+| [2029-stone-game-ix](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2029-stone-game-ix) |
 ## Impartial Game
 |  |
 | ------- |
@@ -280,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0202-happy-number) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
