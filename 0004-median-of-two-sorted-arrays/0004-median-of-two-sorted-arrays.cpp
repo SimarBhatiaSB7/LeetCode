@@ -1,26 +1,37 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        int n = nums1.size();
-        int m = nums2.size();
-
-        vector<int> mergedArr;
-        for (int i = 0; i < n; i++) {
-            mergedArr.push_back(nums1[i]);
+        if (nums1.size() > nums2.size()) {
+            return findMedianSortedArrays(nums2, nums1);
         }
-        for (int i = 0; i < m; i++) {
-            mergedArr.push_back(nums2[i]);
-        }
-        sort(mergedArr.begin(), mergedArr.end());
 
-        int total = mergedArr.size();
+        int m = nums1.size();
+        int n = nums2.size();
+        int low = 0, high = m;
 
-        if (total % 2 == 1) {
-            return static_cast<double>(mergedArr[total / 2]);
-        } else {
-            int middle1 = mergedArr[total / 2 - 1];
-            int middle2 = mergedArr[total / 2];
-            return (static_cast<double>(middle1) + static_cast<double>(middle2)) / 2.0;
+        while (low <= high) {
+            int partition1 = low + (high - low) / 2;
+            int partition2 = (m + n + 1) / 2 - partition1;
+
+            int maxLeft1 = (partition1 == 0) ? INT_MIN : nums1[partition1 - 1];
+            int minRight1 = (partition1 == m) ? INT_MAX : nums1[partition1];
+
+            int maxLeft2 = (partition2 == 0) ? INT_MIN : nums2[partition2 - 1];
+            int minRight2 = (partition2 == n) ? INT_MAX : nums2[partition2];
+
+            if (maxLeft1 <= minRight2 && maxLeft2 <= minRight1) {
+                if ((m + n) % 2 == 1) {
+                    return max(maxLeft1, maxLeft2);
+                } else {
+                    return (max(maxLeft1, maxLeft2) + min(minRight1, minRight2)) / 2.0;
+                }
+            } else if (maxLeft1 > minRight2) {
+                high = partition1 - 1;
+            } else {
+                low = partition1 + 1;
+            }
         }
+
+        return 0.0;
     }
 };
