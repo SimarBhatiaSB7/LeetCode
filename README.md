@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2739-total-distance-traveled](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2739-total-distance-traveled) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3894-traffic-signal-color](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Counting
 |  |
