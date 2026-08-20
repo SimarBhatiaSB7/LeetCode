@@ -17,7 +17,6 @@ public:
                 r++;
             }
 
-            // Check even-length palindromes (center between i and i+1)
             l = i;
             r = i + 1;
             while (l >= 0 && r < n && s[l] == s[r]) {
