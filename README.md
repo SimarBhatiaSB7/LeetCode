@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1175-prime-arrangements](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1175-prime-arrangements) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1399-count-largest-group](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1518-water-bottles) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0645-set-mismatch) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Depth-First Search
 |  |
 | ------- |
