@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1518-water-bottles) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1925-count-square-sum-triples](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2029-stone-game-ix) |
 | [2169-count-operations-to-obtain-zero](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0500-keyboard-row) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [1927-sum-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3894-traffic-signal-color](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Dynamic Programming
@@ -249,12 +251,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2029-stone-game-ix) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0135-candy) |
+| [1927-sum-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2029-stone-game-ix) |
 | [2578-split-with-minimum-sum](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2578-split-with-minimum-sum) |
 ## Simulation
