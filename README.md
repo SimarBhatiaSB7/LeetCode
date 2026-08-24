@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2029-stone-game-ix](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2029-stone-game-ix) |
+| [2126-destroying-asteroids](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [2126-destroying-asteroids](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2578-split-with-minimum-sum](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2578-split-with-minimum-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0135-candy) |
 | [1927-sum-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2029-stone-game-ix) |
+| [2126-destroying-asteroids](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2578-split-with-minimum-sum](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2578-split-with-minimum-sum) |
 ## Simulation
 |  |
