@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1927-sum-game) |
+| [2315-count-asterisks](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2315-count-asterisks) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3894-traffic-signal-color](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Dynamic Programming
