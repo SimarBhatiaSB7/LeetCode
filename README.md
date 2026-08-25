@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0412-fizz-buzz) |
+| [0458-poor-pigs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0458-poor-pigs) |
 | [0509-fibonacci-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0877-stone-game) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0070-climbing-stairs) |
+| [0458-poor-pigs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0458-poor-pigs) |
 | [0509-fibonacci-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -371,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Combinatorics
+|  |
+| ------- |
+| [0458-poor-pigs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0458-poor-pigs) |
 <!---LeetCode Topics End-->
