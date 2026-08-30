@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0441-arranging-coins) |
 | [0458-poor-pigs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0458-poor-pigs) |
+| [0492-construct-the-rectangle](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0877-stone-game) |
