@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2652-sum-multiples) |
 | [2739-total-distance-traveled](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2739-total-distance-traveled) |
 | [3099-harshad-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3099-harshad-number) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3516-find-closest-person](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3516-find-closest-person) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3870-count-commas-in-range) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2739-total-distance-traveled](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2739-total-distance-traveled) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3894-traffic-signal-color](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Counting
 |  |
