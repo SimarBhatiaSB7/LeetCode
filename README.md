@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0908-smallest-range-i) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0283-move-zeroes) |
+| [0633-sum-of-square-numbers](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Recursion
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0441-arranging-coins) |
+| [0633-sum-of-square-numbers](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0704-binary-search) |
 ## Game Theory
 |  |
