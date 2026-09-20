@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0101-symmetric-tree) |
 | [0365-water-and-jug-problem](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0365-water-and-jug-problem) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -445,11 +446,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0101-symmetric-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0101-symmetric-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Graph Theory
 |  |
 | ------- |
