@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1927-sum-game) |
 | [2315-count-asterisks](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2315-count-asterisks) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Dynamic Programming
 |  |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2739-total-distance-traveled](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2739-total-distance-traveled) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3498-reverse-degree-of-a-string](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Counting
 |  |
