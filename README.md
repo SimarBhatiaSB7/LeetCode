@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0896-monotonic-array) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0682-baseball-game) |
 | [1103-distribute-candies-to-people](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1103-distribute-candies-to-people) |
 | [1518-water-bottles](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1518-water-bottles) |
 | [2169-count-operations-to-obtain-zero](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0224-basic-calculator](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0224-basic-calculator) |
+| [0682-baseball-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0682-baseball-game) |
 ## Divide and Conquer
 |  |
 | ------- |
