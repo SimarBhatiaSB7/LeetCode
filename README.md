@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3516-find-closest-person](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3516-find-closest-person) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2578-split-with-minimum-sum](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2578-split-with-minimum-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2427-number-of-common-factors) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -347,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3498-reverse-degree-of-a-string](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Counting
 |  |
