@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0224-basic-calculator) |
 | [0412-fizz-buzz](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0412-fizz-buzz) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0268-missing-number) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0682-baseball-game) |
