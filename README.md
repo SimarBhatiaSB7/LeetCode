@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3099-harshad-number) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3516-find-closest-person](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3516-find-closest-person) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2427-number-of-common-factors](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2427-number-of-common-factors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
