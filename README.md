@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0224-basic-calculator) |
 | [0412-fizz-buzz](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0500-keyboard-row) |
+| [0678-valid-parenthesis-string](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0118-pascals-triangle) |
 | [0458-poor-pigs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0458-poor-pigs) |
 | [0509-fibonacci-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0135-candy) |
+| [0678-valid-parenthesis-string](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1927-sum-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0224-basic-calculator](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0224-basic-calculator) |
+| [0678-valid-parenthesis-string](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -527,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
