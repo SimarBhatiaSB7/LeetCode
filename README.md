@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0164-maximum-gap) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0458-poor-pigs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0458-poor-pigs) |
 | [0509-fibonacci-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0678-valid-parenthesis-string) |
