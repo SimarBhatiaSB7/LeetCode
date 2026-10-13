@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2578-split-with-minimum-sum](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2578-split-with-minimum-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2578-split-with-minimum-sum](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2578-split-with-minimum-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
 | ------- |
