@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0575-distribute-candies](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0575-distribute-candies) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0500-keyboard-row) |
 | [0678-valid-parenthesis-string](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0383-ransom-note) |
 | [1399-count-largest-group](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2029-stone-game-ix) |
