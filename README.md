@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -567,4 +568,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
