@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1175-prime-arrangements](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1175-prime-arrangements) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1399-count-largest-group](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0135-candy) |
 | [0678-valid-parenthesis-string](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1323-maximum-69-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1323-maximum-69-number) |
 | [1927-sum-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
