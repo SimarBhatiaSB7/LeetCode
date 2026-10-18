@@ -562,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
+| [1193-monthly-transactions-i](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1193-monthly-transactions-i) |
 | [1251-average-selling-price](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/1251-average-selling-price) |
 ## Bracket Sequences
 |  |
