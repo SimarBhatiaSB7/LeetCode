@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Sorting
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0086-partition-list](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0283-move-zeroes) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0231-power-of-two) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0224-basic-calculator) |
 | [0678-valid-parenthesis-string](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0682-baseball-game) |
