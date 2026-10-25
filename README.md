@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0069-sqrtx) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Database
 |  |
