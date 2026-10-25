@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0383-ransom-note) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0383-ransom-note) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/SimarBhatiaSB7/LeetCode/tree/master/0905-sort-array-by-parity) |
